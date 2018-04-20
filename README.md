@@ -1,1 +1,3 @@
 # Project-3
+
+This assignment is designed to load an image called LennaC.png, and filter it into different kind of perspectives for editing purposes on popular applications like Instagram, Snapchat and Facebook. The vision bot creates an array of colors as desired for every pixel. I was able to create seven different perspectives with the original image. A black and white image, an inverted image, a demon perspective image, and a rainbow perspective image. Then i created two more perspectives by rotating the original image, where the first was a vertical flip and the other was a horizontal flip. Fianlly, i changed the color of just the feather from blue to green. 
